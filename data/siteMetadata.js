@@ -3,7 +3,7 @@ const siteMetadata = {
   title: 'Portfolio & Blog',
   author: 'Vamshidhar Telugu',
   headerTitle: 'vamshi.writes',
-  description: 'This is my personal blog where i share my thoughts on random things',
+  description: 'my thoughts on anything & everything',
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
