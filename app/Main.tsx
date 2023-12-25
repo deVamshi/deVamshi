@@ -16,7 +16,7 @@ export default function Home({ posts }) {
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
             {/* {siteMetadata.description} */}
-            I’m vamshidhar, a software-developer by profession. I thrive on minimalism, crafting
+            I’m Vamshidhar, a software-developer by profession. I thrive on minimalism, crafting
             products that embody simplicity and elegance. If you're curious about my professional
             journey, dive into my{' '}
             <Link className="text-primary-500" href={'/about'}>

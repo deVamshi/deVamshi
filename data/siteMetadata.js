@@ -2,7 +2,7 @@
 const siteMetadata = {
   title: 'Portfolio & Blog',
   author: 'Vamshidhar Telugu',
-  headerTitle: 'vamshi.writes',
+  headerTitle: '{ V }',
   description:
     'my name is vamshi! a software engineer. i tread the path of minimalism, finding beauty in simplicity and order',
   language: 'en-us',
