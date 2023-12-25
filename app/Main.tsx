@@ -12,10 +12,20 @@ export default function Home({ posts }) {
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="space-y-2 pb-8 pt-6 md:space-y-5">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-            hello!
+            Welcome.
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            {siteMetadata.description}
+            {/* {siteMetadata.description} */}
+            I’m vamshidhar, a software-developer by profession. I thrive on minimalism, crafting
+            products that embody simplicity and elegance. If you're curious about my professional
+            journey, dive into my{' '}
+            <Link className="text-primary-500" href={'/about'}>
+              resume.
+            </Link>
+            <br /> <br />
+            This blog is my informal space for sharing thoughts and views—whether they resonate with
+            you is entirely your call! If my musings bring value or a smile, consider it a bonus.
+            Got a tech project? I'm here to help—reach out anytime!
           </p>
         </div>
         <ul className="divide-y divide-gray-200 dark:divide-gray-700">

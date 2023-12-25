@@ -3,11 +3,12 @@ const siteMetadata = {
   title: 'Portfolio & Blog',
   author: 'Vamshidhar Telugu',
   headerTitle: 'vamshi.writes',
-  description: 'my thoughts on anything & everything',
+  description:
+    'my name is vamshi! a software engineer. i tread the path of minimalism, finding beauty in simplicity and order',
   language: 'en-us',
   theme: 'dark', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://devamshi.vercel.app/',
+  siteRepo: 'https://github.com/deVamshi/deVamshi',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
   // mastodon: 'https://mastodon.social/@mastodonuser',
