@@ -1,1 +1,12 @@
-_this is the repo for my personal portfolio and blog built using nextjs, tailwind and contentlayer, expect drastic changes_
+View my blog/portfolio [here](https://devamshi.vercel.app/)
+
+Tech stack used to build that blog:
+- NextJs
+- Tailwind Css
+- Contentlayer
+
+My key skills include:
+- Flutter
+- AWS (Certified)
+- Java SpringBoot
+- Reactjs
