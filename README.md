@@ -8,5 +8,5 @@ Tech stack used to build that blog:
 My key skills include:
 - Flutter
 - AWS (Certified)
+- Go lang
 - Java SpringBoot
-- Reactjs
