@@ -1,9 +1,4 @@
-View my blog/portfolio [here](https://devamshi.vercel.app/)
-
-Tech stack used to build that blog:
-- NextJs
-- Tailwind Css
-- Contentlayer
+View my blog/portfolio [here](https://devamshi.github.io/v8r/)
 
 My key skills include:
 - Flutter
