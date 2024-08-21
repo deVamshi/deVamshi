@@ -1,4 +1,4 @@
-View my blog/portfolio [here](https://devamshi.github.io/v8r/)
+View my blog/portfolio [here](https://devamshi.vercel.app)
 
 My key skills include:
 - Flutter
