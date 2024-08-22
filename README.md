@@ -8,6 +8,6 @@ Hey! I'm Vamshidhar. I develop robust and maintainable software using Go, Flutte
             one command at a time, you create something new. Something pure
             and... true that, didn't exist before. Something that never lies or
             pretends to be something it isn't. A universe out of nothing. You
-            take the ugly chaotic world we live in and you make it perfect." - Playlist
+            take the ugly chaotic world we live in and you make it perfect." - The Playlist
 
 View my blog [here](https://devamshi.vercel.app)
