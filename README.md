@@ -1,13 +1,11 @@
-Hey! I'm Vamshidhar. I develop robust and maintainable software using Go, Flutter & AWS.
+hey,
 
->  "Code. It can be beautiful. When I learned to program, I saw that it
-            was... pure. No ambiguities. Nothing to interpret, nothing to
-            convey. It just is. The world we live in is incomplete. Fragile and
-            blurry. In the binary world, there are only ones and zeros. That's
-            pefection. All you need to get started is an idea. And then slowly,
-            one command at a time, you create something new. Something pure
-            and... true that, didn't exist before. Something that never lies or
-            pretends to be something it isn't. A universe out of nothing. You
-            take the ugly chaotic world we live in and you make it perfect." - The Playlist
+i'm a software developer with 2+ years of experience
 
-View my blog [here](https://devamshi.vercel.app)
+and a certified [AWS Developer Associate](https://www.credly.com/badges/06b9adb8-1283-4e21-867f-f07e7e8b782e/embedded) and [AWS Solutions Architect](https://www.credly.com/badges/019a9b09-a252-4067-9658-6fe1e45f588d/embedded)
+
+my primary skills include -- golang, aws and microservices
+
+contact me at dev.vamshidhar@gmail.com
+
+[read more](https://devamshi.vercel.app)
